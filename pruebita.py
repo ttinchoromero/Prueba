@@ -5,6 +5,16 @@ a = 1
 b= 4
 
 c= a * b
-d= c
 
-print(d)
+
+print(c)
+
+
+
+print("Goddamnnnnn")
+
+
+print("Esto a una prueba de la rama")
+
+
+print("se puede?")
